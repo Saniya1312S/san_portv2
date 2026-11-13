@@ -55,9 +55,6 @@ A complete, responsive, personal portfolio website built for **Saniya Saratkar**
 5. **ESG & Financial Market Forecasting:** (Python, statsmodels, LSTM, Amazon Chronos) — 14-year longitudinal analysis across 50 companies with comparative time-series benchmarks.
 6. **Agricultural Stubble Burning Remote Sensing:** (Google Earth Engine, Copernicus Sentinel, Python, Folium) — Multi-spectral satellite telemetry and H3 geospatial early warning risk bands.
 
-### 3. Excluded 10th Candidate & Rationale
-- **Excluded Project:** `Intel AI Smart Form Filling Assistant` (`intel-ai-form-filling-assistant`)
-- **Reason:** To satisfy the strict constraint of displaying exactly 6 Data Science & AI projects (9 total). Compared to the selected 6 projects (which feature peer-reviewed IEEE publications, live web applications, 2,400+ empirical trajectories with ROC-AUC 0.977, 99.61% ResNet-MLP benchmarks with 59 test suites, 14 years of econometric records, and Copernicus satellite telemetry), the Intel Form Filling Assistant has narrower research depth and fewer empirical benchmarks.
 
 ---
 
