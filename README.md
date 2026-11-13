@@ -1,7 +1,7 @@
 # Saniya Saratkar — Professional Portfolio Website 2.0
 > **Netflix-Inspired Entry × Minimal Professional Portfolio × Data Storytelling**
 
-[![Live Deployment](https://img.shields.io/badge/GitHub%20Pages-Live%20Deploy-success)](https://saniya1312s.github.io/Saniya-Portfolio-/)
+[![Live Deployment](https://img.shields.io/badge/GitHub%20Pages-Live%20Deploy-success)](https://saniya1312s.github.io/san_portv2/)
 ![React](https://img.shields.io/badge/React-18.3-blue)
 ![Vite](https://img.shields.io/badge/Vite-5.4-purple)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.4-cyan)
