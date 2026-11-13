@@ -18,10 +18,6 @@ A complete, responsive, personal portfolio website built for **Saniya Saratkar**
 
 ---
 
-## 🚀 Live Preview & Deployment
-- **Target GitHub Repository:** [https://github.com/Saniya1312S/Saniya-Portfolio-](https://github.com/Saniya1312S/Saniya-Portfolio-)
-- **Live GitHub Pages URL:** [https://saniya1312s.github.io/Saniya-Portfolio-/](https://saniya1312s.github.io/Saniya-Portfolio-/)
-- **Local Dev Server:** `http://127.0.0.1:5173/`
 
 ---
 
